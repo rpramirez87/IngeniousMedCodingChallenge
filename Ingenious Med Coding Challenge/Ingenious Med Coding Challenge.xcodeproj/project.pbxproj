@@ -49,6 +49,7 @@
 		1ECD48FD28D24C8400838508 /* Ingenious Med Coding ChallengeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ingenious Med Coding ChallengeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ECD490128D24C8400838508 /* Ingenious_Med_Coding_ChallengeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingenious_Med_Coding_ChallengeUITests.swift; sourceTree = "<group>"; };
 		1ECD490328D24C8400838508 /* Ingenious_Med_Coding_ChallengeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingenious_Med_Coding_ChallengeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1ECD491028D24CCD00838508 /* Challenge.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Challenge.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		1ECD48D428D24C8100838508 = {
 			isa = PBXGroup;
 			children = (
+				1ECD491028D24CCD00838508 /* Challenge.md */,
 				1ECD48DF28D24C8100838508 /* Ingenious Med Coding Challenge */,
 				1ECD48F628D24C8400838508 /* Ingenious Med Coding ChallengeTests */,
 				1ECD490028D24C8400838508 /* Ingenious Med Coding ChallengeUITests */,
